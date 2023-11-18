@@ -1,0 +1,17 @@
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.deps.json
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.runtimeconfig.json
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.pdb
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepoPractice.Domain.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\bin\Debug\net6.0\GenericRepoPractice.Domain.pdb
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.csproj.AssemblyReference.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.AssemblyInfoInputs.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.AssemblyInfo.cs
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.csproj.CopyComplete
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\refint\GenericRepositoryPractice.DataAccessLayer.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.pdb
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\GenericRepositoryPractice.DataAccessLayer.genruntimeconfig.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepositoryPractice.DataAccessLayer\obj\Debug\net6.0\ref\GenericRepositoryPractice.DataAccessLayer.dll

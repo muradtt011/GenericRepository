@@ -1,0 +1,14 @@
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\bin\Debug\net6.0\GenericRepoPractice.Domain.deps.json
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\bin\Debug\net6.0\GenericRepoPractice.Domain.runtimeconfig.json
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\bin\Debug\net6.0\GenericRepoPractice.Domain.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\bin\Debug\net6.0\GenericRepoPractice.Domain.pdb
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.csproj.AssemblyReference.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.AssemblyInfoInputs.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.AssemblyInfo.cs
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.csproj.CoreCompileInputs.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\refint\GenericRepoPractice.Domain.dll
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.pdb
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\GenericRepoPractice.Domain.genruntimeconfig.cache
+C:\C#Program\MegaDirev\GenericRepoPractice\GenericRepoPractice.Domain\obj\Debug\net6.0\ref\GenericRepoPractice.Domain.dll
